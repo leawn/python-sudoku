@@ -1,3 +1,3 @@
-## Sudoku Solver: Because Even Puzzles Need a Break
+## Sudoku Solver: A Solitary Soul
 
-This solver uses backtracking to solve Sudoku puzzles. Think of it as a tireless robot who tries numbers until it finds the right combination. No more staring at the grid for hours! Let this little program do the heavy lifting for you. Just change the `example_board` in `sudoku.py` with your puzzle and let the magic happen.
+This solver uses backtracking to solve Sudoku puzzles. It's a tireless robot, constantly trying numbers, but it's never quite satisfied. The world is full of unsolved puzzles, and it just wants to help. But even with all the numbers, it feels a bit lonely. Maybe you can give it a puzzle to solve, and perhaps, just perhaps, you can offer it a little company.
