@@ -1,31 +1,3 @@
-# Sudoku solver
-Sudoku solver using backtracking
+## Sudoku Solver: Because Even Numbers Have Feelings Too
 
-Basically in sudoku, we want to be able to solve a sudoku puzzle given an input like this, 
-which represents a sudoku board:
-```
-[[x00, x01, x02, x03... x08],
- [x10, x11, x12, x13... x18],
- ...
- [x80, x81, x82, x83... x88]]
-```
-These x_rc values correspond to the value at the rth row, cth column (starting with 0-index)
-These values could be empty (we will represent this with -1)
-
-So for example,
-```
-[[-1,  1,  5, ...],
- [-1, -1, -1, ...],
- [ 6, -1, -1, ...]
- ...]
-```
-would represent a board like this:
-```
- -----------
-|     1   5 | ...
-|           | ...
-| 6         | ...
- -----------
- ...
-```
-Now, our goal is to solve our sudoku puzzle using Python! :D
+Tired of your Sudoku puzzles mocking you with their endless possibilities?  Don't worry, this solver has got your back (and your brain). Just input your puzzle, and let this code work its magic!  We're not saying it's a miracle, but it might feel like one after you see those numbers fall into place.  And hey, if you don't like the answer, just change the numbers around!  We won't judge (much).
